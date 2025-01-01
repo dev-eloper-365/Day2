@@ -4,7 +4,7 @@
 A simple React-based contact management application integrated with Firebase for real-time data storage and updates. This app allows users to add, search, update, and delete contact information.
 
 ## Main Interface Preview
-![Firebase Contact App Screenshot](./image.png)
+![Firebase Contact App Screenshot](./img.png)
 
 ## Features
 - 🆕 **Add Contact**: Add a new contact with a name and email.
